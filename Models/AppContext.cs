@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace api_raw.Models
+namespace bets_on_api.Models
 {
     public class AppContext : DbContext
     {
@@ -13,7 +13,7 @@ namespace api_raw.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Challenge>().HasMany(c => c.Bets).WithOne(a => a.Category).HasForeignKey(a => a.CategoryId);
+            modelBuilder.Entity<Challenge>().HasMany(c => c.Bets).WithOne(a => a.Challenge).HasForeignKey(a => a.ChallengeId);
 
             modelBuilder.Entity<Category>().HasMany(c => c.Bets);
 

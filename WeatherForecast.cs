@@ -1,6 +1,6 @@
 using System;
 
-namespace api_raw
+namespace bets_on_api
 {
     public class WeatherForecast
     {

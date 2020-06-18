@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-raw", "api-raw.csproj", "{DD319E3C-7A75-4C85-9394-644C67F2F673}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bets-on-api", "bets-on-api.csproj", "{DD319E3C-7A75-4C85-9394-644C67F2F673}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

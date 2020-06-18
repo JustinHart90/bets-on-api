@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace api_raw.Models
+namespace bets_on_api.Models
 {
     public class Bet
     {

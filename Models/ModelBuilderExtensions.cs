@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace api_raw.Models
+namespace bets_on_api.Models
 {
     public static class ModelBuilderExtensions
     {
