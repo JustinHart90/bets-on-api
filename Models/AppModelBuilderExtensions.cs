@@ -2,7 +2,7 @@
 
 namespace bets_on_api.Models
 {
-    public static class ModelBuilderExtensions
+    public static class AppModelBuilderExtensions
     {
         public static void Seed(this ModelBuilder modelBuilder)
         {
