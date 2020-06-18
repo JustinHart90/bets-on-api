@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DD319E3C-7A75-4C85-9394-644C67F2F673}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/LobbyController.cs">
+    <Files>
+      <File FileName="Controllers/LobbyController.cs" Line="6" Column="32" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api-raw" expanded="True">
+            <Node name="api-raw" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="LobbyController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.api-raw PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
